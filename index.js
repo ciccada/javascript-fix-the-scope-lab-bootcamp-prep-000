@@ -14,6 +14,8 @@ function yourAnimal() {
 
 myAnimal()
 
+//NExt SCope Test
+
 function add2(n) {
   return n + two
 
